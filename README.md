@@ -1,2 +1,2 @@
 Dzmitry Mashuk
-https://www.codecademy.com/DzmitryMashuk
+HTML CSS Basics: https://www.codecademy.com/users/DzmitryMashuk/achievements
